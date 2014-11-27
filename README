@@ -2,3 +2,5 @@ This tree contains device tree definitions extracted from the Linux
 kernel source tree. It is synced regularly with mainline Linux.
 
 Type "make help" for a list of build targets.
+An use case can be found in [wiki](https://github.com/RobertCNelson/dtb-rebuilder/wiki/Home)
+
